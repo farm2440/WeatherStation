@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="WeatherStation">
+<ExpandedNodeIds>
+<v>WeatherStation</v>
+<v>WeatherStation\WeatherStation</v>
+<v>WeatherStation\WeatherStation\TopDesign</v>
+<v>WeatherStation\WeatherStation\WeatherStation.cydwr</v>
+<v>WeatherStation\WeatherStation\Header Files</v>
+<v>WeatherStation\WeatherStation\Header Files\cyapicallbacks.h</v>
+<v>WeatherStation\WeatherStation\Source Files</v>
+<v>WeatherStation\WeatherStation\Source Files\main.c</v>
+<v>WeatherStation\WeatherStation\ESP8266.txt</v>
+<v>WeatherStation\WeatherStation\Generated_Source</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ADC</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ADC\ADC.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ADC\ADC.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ADC\ADC_INT.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ADC\ADC_PM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ADC_intClock</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ADC_intClock\ADC_intClock.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ADC_intClock\ADC_intClock.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ADC_IRQ</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ADC_IRQ\ADC_IRQ.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ADC_IRQ\ADC_IRQ.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Clock_1</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Clock_1\Clock_1.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Clock_1\Clock_1.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ClockTO</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ClockTO\ClockTO.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ClockTO\ClockTO.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\cm0gcc.ld</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\Cm0Iar.icf</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\Cm0RealView.scat</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\Cm0Start.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\cmsis_armcc.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\cmsis_gcc.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\core_cm0.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\core_cm0_psoc4.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\core_cmFunc.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\core_cmInstr.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\CyBootAsmGnu.s</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\CyBootAsmIar.s</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\CyBootAsmRv.s</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\CyFlash.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\CyFlash.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\CyLib.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\CyLib.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\cypins.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\cyPm.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\cyPm.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\cytypes.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_boot\cyutils.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_lfclk\CyLFClk.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cy_lfclk\CyLFClk.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\HUM\HUM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\HUM\HUM.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\HUM\HUM_aliases.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\HUM\HUM_PM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C\I2C.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C\I2C.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C\I2C_BOOT.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C\I2C_BOOT.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C\I2C_I2C.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C\I2C_I2C.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C\I2C_I2C_BOOT.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C\I2C_I2C_INT.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C\I2C_I2C_MASTER.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C\I2C_I2C_PVT.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C\I2C_PINS.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C\I2C_PM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C\I2C_PVT.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C_SCB_IRQ\I2C_SCB_IRQ.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C_SCB_IRQ\I2C_SCB_IRQ.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C_SCBCLK\I2C_SCBCLK.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C_SCBCLK\I2C_SCBCLK.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C_scl\I2C_scl.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C_scl\I2C_scl.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C_scl\I2C_scl_aliases.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C_scl\I2C_scl_PM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C_sda\I2C_sda.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C_sda\I2C_sda.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C_sda\I2C_sda_aliases.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\I2C_sda\I2C_sda_PM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\isr_Rain</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\isr_Rain\isr_Rain.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\isr_Rain\isr_Rain.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\isr_Timeout</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\isr_Timeout\isr_Timeout.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\isr_Timeout\isr_Timeout.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_B</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_B\LED_B.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_B\LED_B.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_B\LED_B_aliases.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_B\LED_B_PM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_G</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_G\LED_G.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_G\LED_G.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_G\LED_G_aliases.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_G\LED_G_PM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_R</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_R\LED_R.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_R\LED_R.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_R\LED_R_aliases.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\LED_R\LED_R_PM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Pin_Rain</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Pin_Rain\Pin_Rain.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Pin_Rain\Pin_Rain.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Pin_Rain\Pin_Rain_aliases.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Pin_Rain\Pin_Rain_PM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Pin_Ubat</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Pin_Ubat\Pin_Ubat.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Pin_Ubat\Pin_Ubat.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Pin_Ubat\Pin_Ubat_aliases.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Pin_Ubat\Pin_Ubat_PM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\PinWindCE</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\PinWindCE\PinWindCE.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\PinWindCE\PinWindCE.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\PinWindCE\PinWindCE_aliases.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\PinWindCE\PinWindCE_PM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\PinWindRX</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\PinWindRX\PinWindRX.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\PinWindRX\PinWindRX.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\PinWindRX\PinWindRX_aliases.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\PinWindRX\PinWindRX_PM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Timeout</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Timeout\Timeout.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Timeout\Timeout.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\Timeout\Timeout_PM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\UART</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\UART\UART.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\UART\UART.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\UART\UART_BOOT.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\UART\UART_INT.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\UART\UART_PM.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\UART_IntClock</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\UART_IntClock\UART_IntClock.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\UART_IntClock\UART_IntClock.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cycodeshareexport.ld</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cycodeshareimport.ld</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cycodeshareimport.scat</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cydevice_trm.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cydevicegnu_trm.inc</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cydeviceiar_trm.inc</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cydevicerv_trm.inc</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cydisabledsheets.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cyfitter.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cyfitter_cfg.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cyfitter_cfg.h</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cyfittergnu.inc</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cyfitteriar.inc</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cyfitterrv.inc</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\cymetadata.c</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\project.h</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>WeatherStation</v>
+<v>WeatherStation\WeatherStation</v>
+<v>WeatherStation\WeatherStation\TopDesign</v>
+<v>WeatherStation\WeatherStation\WeatherStation.cydwr</v>
+<v>WeatherStation\WeatherStation\Header Files</v>
+<v>WeatherStation\WeatherStation\Header Files\cyapicallbacks.h</v>
+<v>WeatherStation\WeatherStation\Source Files</v>
+<v>WeatherStation\WeatherStation\Source Files\main.c</v>
+<v>WeatherStation\WeatherStation\ESP8266.txt</v>
+<v>WeatherStation\WeatherStation\Generated_Source</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4</v>
+<v>WeatherStation\WeatherStation\Generated_Source\PSoC4\ADC</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>WeatherStation</v>
+<v>WeatherStation\WeatherStation</v>
+<v>WeatherStation\WeatherStation\TopDesign</v>
+<v>WeatherStation\WeatherStation\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>WeatherStation</v>
+<v>WeatherStation\WeatherStation</v>
+<v>WeatherStation\WeatherStation\TopDesign</v>
+<v>WeatherStation\WeatherStation\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>WeatherStation</v>
+<v>WeatherStation\WeatherStation</v>
+<v>WeatherStation\WeatherStation\CortexM0</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_INT.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_intClock.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\Clock_1.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ClockTO.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\Cm0Start.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLFClk.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\HUM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\HUM_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_BOOT.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_I2C.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_I2C_BOOT.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_I2C_INT.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_I2C_MASTER.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_SCB_IRQ.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_SCBCLK.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_scl.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_scl_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_sda.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_sda_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\isr_Rain.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\isr_Timeout.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\LED_B.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\LED_B_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\LED_G.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\LED_G_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\LED_R.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\LED_R_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_Rain.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_Rain_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_Ubat.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_Ubat_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\PinWindCE.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\PinWindCE_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\PinWindRX.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\PinWindRX_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\Timeout.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\Timeout_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\UART.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_BOOT.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_INT.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_IntClock.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\WeatherStation.elf</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\WeatherStation.hex</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\WeatherStation.map</v>
+<v>WeatherStation\WeatherStation\WeatherStation.gpdsc</v>
+<v>WeatherStation\WeatherStation\WeatherStation.rpt</v>
+<v>WeatherStation\WeatherStation\WeatherStation_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>WeatherStation</v>
+<v>WeatherStation\WeatherStation</v>
+<v>WeatherStation\WeatherStation\CortexM0</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_INT.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_intClock.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_PM.lst</v>
+<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\Clock_1.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>WeatherStation</v>
+<v>WeatherStation\WeatherStation</v>
+<v>WeatherStation\WeatherStation\PSoC 4 Architecture TRM</v>
+<v>WeatherStation\WeatherStation\PSoC 4200 Family Datasheet</v>
+<v>WeatherStation\WeatherStation\System Reference Guides</v>
+<v>WeatherStation\WeatherStation\System Reference Guides\cy_boot_v5_40</v>
+<v>WeatherStation\WeatherStation\System Reference Guides\cy_lfclk_v1_10</v>
+<v>WeatherStation\WeatherStation\ADC_SAR_SEQ_P4_v2_40.pdf</v>
+<v>WeatherStation\WeatherStation\Battery_v1_0.pdf</v>
+<v>WeatherStation\WeatherStation\cy_clock_v2_20</v>
+<v>WeatherStation\WeatherStation\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>WeatherStation\WeatherStation\cy_constant_v1_0.pdf</v>
+<v>WeatherStation\WeatherStation\cy_isr_v1_70</v>
+<v>WeatherStation\WeatherStation\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>WeatherStation\WeatherStation\cy_pins_v2_20</v>
+<v>WeatherStation\WeatherStation\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>WeatherStation\WeatherStation\Debouncer_v1_0.pdf</v>
+<v>WeatherStation\WeatherStation\Gnd_v1_0</v>
+<v>WeatherStation\WeatherStation\Gnd_v1_0\Gnd_v1_0.pdf</v>
+<v>WeatherStation\WeatherStation\Resistor_v1_0</v>
+<v>WeatherStation\WeatherStation\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>WeatherStation\WeatherStation\SCB_P4_v3_20.pdf</v>
+<v>WeatherStation\WeatherStation\TCPWM_P4_v2_10.pdf</v>
+<v>WeatherStation\WeatherStation\UART_v2_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>WeatherStation</v>
+<v>WeatherStation\WeatherStation</v>
+<v>WeatherStation\WeatherStation\PSoC 4 Architecture TRM</v>
+<v>WeatherStation\WeatherStation\PSoC 4200 Family Datasheet</v>
+<v>WeatherStation\WeatherStation\System Reference Guides</v>
+<v>WeatherStation\WeatherStation\System Reference Guides\cy_boot_v5_40</v>
+<v>WeatherStation\WeatherStation\System Reference Guides\cy_lfclk_v1_10</v>
+<v>WeatherStation\WeatherStation\ADC_SAR_SEQ_P4_v2_40.pdf</v>
+<v>WeatherStation\WeatherStation\Battery_v1_0.pdf</v>
+<v>WeatherStation\WeatherStation\cy_clock_v2_20</v>
+<v>WeatherStation\WeatherStation\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>WeatherStation\WeatherStation\cy_constant_v1_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\WeatherStation.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\WeatherStation.cydsn\main.c" />
+<name v=".\WeatherStation.cydsn\ESP8266.txt" />
+<name v=".\WeatherStation.cydsn\WeatherStation.cydwr" />
+</OpenDocs>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

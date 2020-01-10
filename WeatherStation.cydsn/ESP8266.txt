@@ -1,0 +1,33 @@
+TCS Terminal, TeraTerm не работи както трябва. 115200
+
+AT+CWMODE=1   - режим хост
+AT+CWMODE?
+
+AT+CWLAP - достъпни мрежи
+
+AT+CWJAP="Etherino","" - присъединяване
+AT+CWJAP? - статус на мрежата 
++CWJAP:"Etherino","20:55:.........",11,-29
+
+AT+CIFSR - IP Adres, MAC
+
+AT+CIPMUX=0 - само една връзка
+ATE0 - без ехо
+
+AT+CIPSTART="TCP","192.168.43.33",8888 - изгражда TCP връзка
+ 
+ AT+CIPSEND=10 - ще изпрати 10 байта въведени след промпта >
+ >1234567890
+ SEND OK
+ 
+ 
+ AT+CIPSTART="UDP","224.0.0.120",8888 - multicast
+ 
+ 
+AT+CIPCLOSE
+  
+ +IPD,7:ABCDEFG
+ 
+ //VHF Module
+ AT+DMOSETGROUP=0,145.5250,145.5250,0000,4,0000
+ AT+DMOSETGROUP=0,144.8000,144.8000,0000,4,0000
