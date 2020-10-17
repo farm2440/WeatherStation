@@ -1,5 +1,5 @@
-C:\work\PSoC4\WeatherStation\WeatherStation\WeatherStation.cydsn\WeatherStation.cyprj|a463aa50-b457-4e2f-a20b-0cdbf7965078
-C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|3ba16cf0-4ee8-4175-b077-07315a255ef9
-C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|9603ab91-470b-4039-8e4d-886253a98bcb
-C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|a35a5582-647d-4b83-8e5f-83f05a86f67f
-C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|1d0a35b4-dddf-414b-929d-f8efc7b0abd6
+C:\work\PSoC4\WeatherStation\WeatherStation\WeatherStation.cydsn\WeatherStation.cyprj|c5c24dde-709e-49e9-a9cf-03d1469b2232
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|60fee3d7-561d-4eb9-b524-023e0c03cd6c
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|0e6e4e79-1b3f-49fb-a18a-6e0f507c726f
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|dff53436-4a30-4404-9918-af2bb5bc3e0c
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|78e7fa19-9f4e-4752-bf70-21aa74e1c6ea

@@ -11,7 +11,8 @@
 #define READ_LINE_TIMEOUT 1000
 #define ESTABLISH_CONN_TIMEOUT 3000 //15000    - за ТСР
 
-#define SLEEP_TIME 20000    // WiFI модула се приспива след като 
+//#define SLEEP_TIME 20000    //За обикновен сензор за темп. и влага това реално са 26 секунди
+#define SLEEP_TIME 80000    // WiFI модула се приспива след като   (беше 120000 за сензор с ТХ20)
                             // изпрати данните и се събужда след това време ms
 #define WAKEUP_ADVANCE 5000 // събуждането става предварително с този интервал милисекунди
 
@@ -241,7 +242,7 @@ EstablishConnection:
 #ifdef BMP180_IS_PRESENT                
                 temp =  BMP180_ReadTemperature();
                 pressure = BMP180_ReadPresure(temp,3);
-                sprintf(str,"BMP180: T=%2.0ld P=%4.0ldhPa\r\n", temp/10, pressure/100);                
+                sprintf(str,"BMP180: T=%ld P=%ldhPa\r\n", temp/10, pressure/100);                
                 strcat(txbuf,str);                
 #endif                
                 //AM2302
@@ -250,6 +251,14 @@ EstablishConnection:
                 {
                     AM2302_Temp  = -1000;
                     AM2302_Humidity = -1000;
+                }
+                else
+                {   //При отрицателна температура най-старшия бит става 1
+                    if((AM2302_Temp & 0x8000)!=0)
+                    {
+                        AM2302_Temp = AM2302_Temp & 0x7FFF;
+                        AM2302_Temp *= -1;
+                    }
                 }
                 sprintf(str,"AM2302: T=%d Rh=%d\r\n", AM2302_Temp/10, AM2302_Humidity/10);
                 strcat(txbuf, str);                

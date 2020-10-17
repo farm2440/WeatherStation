@@ -2,7 +2,7 @@
 --	Conversion of WeatherStation.v to vh2:
 --
 --	Cypress Semiconductor - WARP Version 6.3 IR 41
---	Fri Jan 03 12:15:10 2020
+--	Tue Oct 13 21:27:11 2020
 --
 
 USE cypress.cypress.all;
