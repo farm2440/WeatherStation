@@ -289,36 +289,6 @@
 <VisibleNodeIds>
 <v>WeatherStation</v>
 <v>WeatherStation\WeatherStation</v>
-<v>WeatherStation\WeatherStation\CortexM0</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_INT.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_intClock.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_IRQ.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_PM.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\Clock_1.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\ClockTO.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\Cm0Start.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLFClk.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\HUM.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\HUM_PM.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_BOOT.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_I2C.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_I2C_BOOT.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_I2C_INT.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_I2C_MASTER.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_PM.lst</v>
-<v>WeatherStation\WeatherStation\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_SCB_IRQ.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>

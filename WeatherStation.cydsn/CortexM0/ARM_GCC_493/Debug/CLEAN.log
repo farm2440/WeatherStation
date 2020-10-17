@@ -1,4 +1,4 @@
---------------- Clean Started: 01/10/2020 13:51:45 Project: WeatherStation, Configuration: ARM GCC 4.9-2015-q1-update Debug ---------------
+--------------- Clean Started: 10/17/2020 12:38:33 Project: WeatherStation, Configuration: ARM GCC 4.9-2015-q1-update Debug ---------------
 Deleting file ".\CortexM0\ARM_GCC_493\Debug\main.o"
 Deleting file ".\CortexM0\ARM_GCC_493\Debug\cyfitter_cfg.o"
 Deleting file ".\CortexM0\ARM_GCC_493\Debug\cymetadata.o"
@@ -64,4 +64,4 @@ Deleting file ".\WeatherStation_timing.html"
 Deleting file ".\CortexM0\ARM_GCC_493\Debug\.deps\C_FILE.P"
 Deleting file ".\CortexM0\ARM_GCC_493\Debug\.deps\ARM_C_FILE.P"
 Deleting file ".\CortexM0\ARM_GCC_493\Debug\.deps\GNU_ARM_ASM_FILE.P"
---------------- Clean Succeeded: 01/10/2020 13:51:45 ---------------
+--------------- Clean Succeeded: 10/17/2020 12:38:33 ---------------
